@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "name": "Мария",
+      "lastName": "Макарова",
+      "phone": "89045672937",
+      "email": "masha@mail.ru",
+      "id": 2
+    },
+    {
+      "name": "Николай",
+      "lastName": "Кашин",
+      "phone": "89034775993",
+      "email": "kolya@yandex.ru",
+      "id": 3
+    },
+    {
+      "name": "Максим",
+      "lastName": "Понфилов",
+      "phone": "8905467878",
+      "email": "max@mail.ru",
+      "id": 4
+    },
+    {
+      "name": "София",
+      "lastName": "Романова",
+      "phone": "sofiaroman@gmail.com",
+      "email": "+34567849569",
+      "id": 5
+    },
+    {
+      "name": "Роман",
+      "lastName": "Радугов",
+      "phone": "+79456783667",
+      "email": "raduga@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Нонна",
+      "lastName": "Пирогова",
+      "phone": "894567936748",
+      "email": "nonnochhka@mail.com",
+      "id": 8
+    },
+    {
+      "name": "Алена",
+      "lastName": "Баденко",
+      "phone": "89546728364",
+      "email": "badenko@mail.kz",
+      "id": 9
+    },
+    {
+      "name": "Платоний ",
+      "lastName": "Плодовитов",
+      "phone": "+234830586849",
+      "email": "plodov@yandex.ru",
+      "id": 11
+    }
+  ]
+}
